@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\responsi\ResponsiPemrogaman3321\ResponsiPemrogaman3321\bin\Debug\ResponsiPemrogaman3321.exe.config
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\responsi\ResponsiPemrogaman3321\ResponsiPemrogaman3321\bin\Debug\ResponsiPemrogaman3321.exe
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\responsi\ResponsiPemrogaman3321\ResponsiPemrogaman3321\bin\Debug\ResponsiPemrogaman3321.pdb
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\responsi\ResponsiPemrogaman3321\ResponsiPemrogaman3321\obj\Debug\ResponsiPemrogaman3321.csprojAssemblyReference.cache
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\responsi\ResponsiPemrogaman3321\ResponsiPemrogaman3321\obj\Debug\ResponsiPemrogaman3321.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\responsi\ResponsiPemrogaman3321\ResponsiPemrogaman3321\obj\Debug\ResponsiPemrogaman3321.exe
+C:\Users\acer\Documents\ADETIA C P\KULIAH AMIKOM IF01\SEMESTER 2\PEMROGAMAN\responsi\ResponsiPemrogaman3321\ResponsiPemrogaman3321\obj\Debug\ResponsiPemrogaman3321.pdb
